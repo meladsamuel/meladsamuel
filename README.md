@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>FormInbox</h3>
       <p>
         <strong>Open-source WordPress plugin for capturing form submissions with page context and a modern inbox dashboard.</strong>
@@ -68,10 +68,17 @@
         <a href="https://github.com/forminbox/forminbox">View FormInbox repository →</a>
       </p>
     </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://github.com/forminbox/forminbox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=forminbox&repo=forminbox&hide_border=true" alt="FormInbox repository card" />
-      </a>
+    <td width="35%" valign="top">
+      <h3>Product Snapshot</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Type-WordPress%20Plugin-black?style=for-the-badge" alt="Type: WordPress Plugin" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Open%20Source-black?style=for-the-badge" alt="Status: Open Source" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Lead%20Inbox-black?style=for-the-badge" alt="Focus: Lead Inbox" />
+      </p>
     </td>
   </tr>
 </table>
@@ -147,15 +154,29 @@
 
 ## 📊 GitHub Activity
 
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Profile</h3>
+      <p>Public engineering work, experiments, and product repositories.</p>
+      <p><a href="https://github.com/meladsamuel?tab=repositories">View repositories →</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Current Build</h3>
+      <p>FormInbox — WordPress plugin for form submissions and lead context.</p>
+      <p><a href="https://github.com/forminbox/forminbox">Open FormInbox →</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Learning Track</h3>
+      <p>Kubernetes, cloud native engineering, security, and product systems.</p>
+      <p><a href="https://github.com/meladsamuel?tab=overview">View activity →</a></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meladsamuel&show_icons=true&hide_border=true&rank_icon=github" alt="Melad Samuel GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meladsamuel&layout=compact&hide_border=true" alt="Melad Samuel top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=meladsamuel&hide_border=true" alt="Melad Samuel GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=meladsamuel&theme=dark&hide_border=true&background=00000000" alt="Melad Samuel GitHub streak" />
 
 </div>
 
