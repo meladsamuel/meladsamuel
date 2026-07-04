@@ -1,0 +1,76 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="64" x2="1080" y2="298" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.48" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 80) rotate(40) scale(260 180)">
+      <stop stop-color="#2563EB" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 250) rotate(35) scale(300 210)">
+      <stop stop-color="#7C3AED" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow2)"/>
+
+  <path d="M72 286 C250 225 345 336 510 268 C670 202 750 116 1092 142" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.55"/>
+  <path d="M72 302 C250 242 360 350 530 286 C690 226 770 138 1092 166" stroke="url(#accent)" stroke-width="1" stroke-opacity="0.3"/>
+
+  <g filter="url(#shadow)">
+    <rect x="64" y="56" width="660" height="248" rx="24" fill="#0B1220" fill-opacity="0.76" stroke="#334155"/>
+    <rect x="96" y="88" width="118" height="30" rx="15" fill="#172554" stroke="#2563EB"/>
+    <text x="155" y="108" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PRODUCT BUILDER</text>
+
+    <text x="96" y="164" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Melad Samuel</text>
+    <text x="98" y="203" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Full Stack • Cloud Native • Kubernetes Security</text>
+    <text x="98" y="236" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Building practical products from idea to production.</text>
+
+    <g>
+      <rect x="96" y="262" width="116" height="30" rx="15" fill="#0F172A" stroke="#334155"/>
+      <text x="154" y="282" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">WordPress</text>
+      <rect x="224" y="262" width="86" height="30" rx="15" fill="#0F172A" stroke="#334155"/>
+      <text x="267" y="282" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">React</text>
+      <rect x="322" y="262" width="114" height="30" rx="15" fill="#0F172A" stroke="#334155"/>
+      <text x="379" y="282" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Kubernetes</text>
+      <rect x="448" y="262" width="94" height="30" rx="15" fill="#0F172A" stroke="#334155"/>
+      <text x="495" y="282" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Security</text>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="770" y="68" width="356" height="220" rx="24" fill="#0B1220" fill-opacity="0.84" stroke="#334155"/>
+    <text x="802" y="111" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Current dashboard</text>
+
+    <rect x="802" y="136" width="292" height="36" rx="12" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="824" cy="154" r="6" fill="#22C55E"/>
+    <text x="842" y="160" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Building FormInbox</text>
+
+    <rect x="802" y="184" width="292" height="36" rx="12" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="824" cy="202" r="6" fill="#38BDF8"/>
+    <text x="842" y="208" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Shipping product systems</text>
+
+    <rect x="802" y="232" width="292" height="36" rx="12" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="824" cy="250" r="6" fill="#A855F7"/>
+    <text x="842" y="256" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Cloud Native + Security</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#334155"/>
+</svg>
