@@ -1,46 +1,45 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,45:2563EB,100:7C3AED&text=Melad%20Samuel&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20Product%20Builder&descSize=17&descAlignY=58&animation=fadeIn" alt="Melad Samuel profile banner" />
+<img width="100%" src="./assets/profile-hero.svg" alt="Melad Samuel — Software Engineer, Cloud Native, Product Builder" />
 
-<p>
-  <a href="https://github.com/forminbox/forminbox"><img src="https://img.shields.io/badge/Building-FormInbox-2563EB?style=flat-square&labelColor=0F172A" alt="Building FormInbox" /></a>
-  <a href="https://github.com/meladsamuel?tab=repositories"><img src="https://img.shields.io/badge/Open-Projects-111827?style=flat-square&labelColor=0F172A" alt="Open Projects" /></a>
-  <a href="https://www.linkedin.com/in/meladsamuel/"><img src="https://img.shields.io/badge/LinkedIn-meladsamuel-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" /></a>
-</p>
+<br />
+
+<a href="https://github.com/forminbox/forminbox"><img src="https://img.shields.io/badge/Building-FormInbox-2563EB?style=for-the-badge&labelColor=0F172A" alt="Building FormInbox" /></a>
+<a href="https://github.com/meladsamuel?tab=repositories"><img src="https://img.shields.io/badge/Open-Projects-111827?style=for-the-badge&labelColor=0F172A" alt="Open Projects" /></a>
+<a href="https://www.linkedin.com/in/meladsamuel/"><img src="https://img.shields.io/badge/LinkedIn-meladsamuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" /></a>
 
 <h3>Full Stack & Cloud Native Engineer building practical products from idea to production.</h3>
 
 <p>
-  I work across product engineering, WordPress platforms, Kubernetes, CI/CD, infrastructure security, and AI-powered workflows.
+  Product engineering · WordPress platforms · Kubernetes · CI/CD · Infrastructure security · AI-powered workflows
 </p>
 
 </div>
 
 ---
 
-## 01 · Product Dashboard
+## 🧭 Profile Dashboard
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Current Build</h3>
-      <p><strong>FormInbox</strong></p>
+      <h3>🚀 Current Mission</h3>
       <p>
-        A modern WordPress plugin for capturing form submissions with page context and a clean lead inbox.
+        I build practical software products from idea to production — covering application code,
+        infrastructure, CI/CD, Kubernetes, security, and deployment.
       </p>
       <p>
-        <a href="https://github.com/forminbox/forminbox">Open repository →</a>
+        Right now, I’m focused on <strong>FormInbox</strong>, a modern WordPress plugin for capturing
+        form submissions with page context, cleaner dashboards, and better lead-tracking workflows.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Direction</h3>
-      <p><strong>Founder-minded engineering</strong></p>
+      <h3>🔭 Direction</h3>
       <p>
-        I focus on problem discovery, fast MVPs, real-user feedback, simple architecture, and production-ready delivery.
+        I’m working toward becoming a stronger <strong>founding engineer</strong>: someone who can discover
+        problems, build fast MVPs, test with real users, and turn technical execution into business value.
       </p>
-      <p>
-        <strong>Build simple. Ship fast. Learn from users.</strong>
-      </p>
+      <p><strong>Build simple. Ship fast. Learn from users. Improve with discipline.</strong></p>
     </td>
   </tr>
 </table>
@@ -48,19 +47,19 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>Product</h3>
+      <h3>🧩 Product</h3>
       <p>Dashboards, SaaS workflows, MVPs</p>
     </td>
     <td align="center" width="25%">
-      <h3>WordPress</h3>
+      <h3>📝 WordPress</h3>
       <p>Plugins, Gutenberg, REST APIs</p>
     </td>
     <td align="center" width="25%">
-      <h3>Cloud Native</h3>
+      <h3>☸️ Cloud Native</h3>
       <p>Kubernetes, Docker, CI/CD</p>
     </td>
     <td align="center" width="25%">
-      <h3>Security</h3>
+      <h3>🛡️ Security</h3>
       <p>Hardening, runtime security, RBAC</p>
     </td>
   </tr>
@@ -68,7 +67,7 @@
 
 ---
 
-## 02 · Featured Product
+## 🧩 Featured Product
 
 <table>
   <tr>
@@ -78,10 +77,11 @@
         <strong>Open-source WordPress plugin for capturing form submissions with page context and a modern inbox dashboard.</strong>
       </p>
       <p>
-        FormInbox helps website owners and sales teams understand where each lead came from, what page converted, and how to manage submissions in a cleaner workflow.
+        FormInbox helps website owners and sales teams understand where each lead came from,
+        what page converted, and how to manage submissions in a cleaner workflow.
       </p>
       <p>
-        <a href="https://github.com/forminbox/forminbox"><strong>github.com/forminbox/forminbox →</strong></a>
+        <a href="https://github.com/forminbox/forminbox"><strong>View repository →</strong></a>
       </p>
     </td>
     <td width="38%" valign="top">
@@ -99,34 +99,44 @@
 
 ---
 
-## 03 · Engineering System
+## 🛠️ Engineering Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Application</h3>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>PHP</code> <code>WordPress</code> <code>Gutenberg</code> <code>REST APIs</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Infrastructure</h3>
-      <p>
-        <code>Kubernetes</code> <code>Docker</code> <code>Helm</code> <code>NGINX</code> <code>AWS</code> <code>Linux</code> <code>GitHub Actions</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Security</h3>
-      <p>
-        <code>CKS</code> <code>RBAC</code> <code>NetworkPolicy</code> <code>Falco</code> <code>Trivy</code> <code>OPA</code> <code>Gatekeeper</code>
-      </p>
-    </td>
-  </tr>
-</table>
+### Product & Application
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-20232A?style=for-the-badge&logo=wordpress" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
+</p>
+
+### Cloud Native & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx" alt="NGINX" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-20232A?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux" alt="Linux" />
+</p>
+
+### Data, Runtime & Security
+
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis" alt="Redis" />
+  <img src="https://img.shields.io/badge/Falco-20232A?style=for-the-badge" alt="Falco" />
+  <img src="https://img.shields.io/badge/Trivy-20232A?style=for-the-badge" alt="Trivy" />
+  <img src="https://img.shields.io/badge/OPA%20Gatekeeper-20232A?style=for-the-badge" alt="OPA Gatekeeper" />
+  <img src="https://img.shields.io/badge/RBAC-20232A?style=for-the-badge" alt="RBAC" />
+</p>
 
 ---
 
-## 04 · Certifications
+## 🏆 Certifications
 
 <table>
   <tr>
@@ -147,35 +157,42 @@
 
 ---
 
-## 05 · Operating Model
-
-```text
-Problem → Small MVP → Real users → Feedback loop → Better product → Business value
-```
+## 📊 Activity Snapshot
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>How I build</h3>
-      <p>
-        I prefer simple architecture, clear UX, fast iteration, and production-ready foundations.
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>Profile</h3>
+      <p>Public engineering work, experiments, and product repositories.</p>
+      <p><a href="https://github.com/meladsamuel?tab=repositories">View repositories →</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>What I care about</h3>
-      <p>
-        Useful software, reliable delivery, secure infrastructure, and products that real customers can understand quickly.
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>Current Build</h3>
+      <p>FormInbox — WordPress plugin for form submissions and lead context.</p>
+      <p><a href="https://github.com/forminbox/forminbox">Open FormInbox →</a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Learning Track</h3>
+      <p>Kubernetes, cloud native engineering, security, and product systems.</p>
+      <p><a href="https://github.com/meladsamuel?tab=overview">View activity →</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
+## 🧠 How I Think
+
+```text
+Problem → MVP → Real users → Feedback → Better product → Business value
+```
+
+I care about building software that is useful, simple, reliable, and ready for real customers.
+
+---
+
 <div align="center">
 
-### Build simple · Ship fast · Learn from users · Improve with discipline
+### Let’s build useful software.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:7C3AED,50:2563EB,100:0F172A" alt="Footer wave" />
