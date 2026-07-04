@@ -1,188 +1,70 @@
 <div align="center">
 
-# Hi, I'm Melad Samuel 👋
+# Melad Samuel
 
-### Software Engineer · Full Stack & Cloud Native Engineer · Kubernetes Security · AI SaaS Builder
+### Software Engineer · Full Stack & Cloud Native Engineer · Kubernetes Security · Product Builder
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=meladsamuel&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-black?style=for-the-badge" alt="Focus: Product Engineering" />
-  <img src="https://img.shields.io/badge/Building-FormInbox-black?style=for-the-badge" alt="Building: FormInbox" />
-</p>
+I build useful software products from idea to production — from the application layer to infrastructure, CI/CD, Kubernetes, security, and deployment.
 
-<p>
-  <strong>Building useful software products from idea to production.</strong>
-  <br />
-  WordPress · React · Cloud Native · Kubernetes Security · DevOps · AI SaaS
-</p>
+<a href="https://github.com/forminbox/forminbox">FormInbox</a> · <a href="https://github.com/meladsamuel?tab=repositories">Repositories</a> · <a href="https://www.linkedin.com/in/meladsamuel/">LinkedIn</a>
 
 </div>
 
 ---
 
-## 🧭 Profile Dashboard
+## Dashboard
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Current Mission</h3>
-      <p>
-        I build practical software products from idea to production — covering application code,
-        infrastructure, CI/CD, Kubernetes, security, and deployment.
-      </p>
-      <p>
-        Right now, I’m focused on <strong>FormInbox</strong>, a modern WordPress plugin for capturing
-        form submissions with page context, cleaner dashboards, and better lead-tracking workflows.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔭 Direction</h3>
-      <p>
-        I’m working toward becoming a stronger <strong>founding engineer</strong>: someone who can discover
-        problems, build fast MVPs, test with real users, and turn technical execution into business value.
-      </p>
-      <p><strong>Build simple. Ship fast. Learn from users. Improve with discipline.</strong></p>
-    </td>
-  </tr>
-</table>
+| Area | Current focus |
+| --- | --- |
+| **Building** | FormInbox — a modern WordPress plugin for capturing form submissions with page context and a clean lead inbox. |
+| **Direction** | Becoming a stronger founding engineer: problem discovery, fast MVPs, real-user feedback, and business-focused execution. |
+| **Engineering style** | Simple architecture, practical UX, secure infrastructure, and production-ready delivery. |
+| **Core stack** | WordPress, PHP, React, TypeScript, REST APIs, Kubernetes, Docker, AWS, GitHub Actions. |
 
 ---
 
-## 🧩 Featured Product
+## Current Product
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>FormInbox</h3>
-      <p>
-        <strong>Open-source WordPress plugin for capturing form submissions with page context and a modern inbox dashboard.</strong>
-      </p>
-      <p>
-        FormInbox helps website owners and sales teams understand where each lead came from,
-        what page converted, and how to manage submissions in a clean workflow.
-      </p>
-      <p>
-        <strong>Core focus:</strong> WordPress · PHP · React · REST API · Modern Admin UI · Lead Context
-      </p>
-      <p>
-        <a href="https://github.com/forminbox/forminbox">View FormInbox repository →</a>
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <h3>Product Snapshot</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Type-WordPress%20Plugin-black?style=for-the-badge" alt="Type: WordPress Plugin" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Open%20Source-black?style=for-the-badge" alt="Status: Open Source" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Lead%20Inbox-black?style=for-the-badge" alt="Focus: Lead Inbox" />
-      </p>
-    </td>
-  </tr>
-</table>
+### FormInbox
+
+**Open-source WordPress plugin for capturing form submissions with page context and a modern inbox dashboard.**
+
+FormInbox helps website owners and sales teams understand where each lead came from, what page converted, and how to manage submissions in a cleaner workflow.
+
+| Product area | Details |
+| --- | --- |
+| **Category** | WordPress plugin |
+| **Problem** | Form submissions usually miss useful context about the page, source, and lead journey. |
+| **Solution** | Capture submissions with page context and present them in a modern, searchable inbox. |
+| **Stack** | WordPress, PHP, React, REST API, modern admin UI |
+| **Repository** | [github.com/forminbox/forminbox](https://github.com/forminbox/forminbox) |
 
 ---
 
-## 🛠️ Engineering Stack
+## Engineering Stack
 
-### Product & Application
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-20232A?style=for-the-badge&logo=wordpress" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
-</p>
-
-### Cloud Native & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx" alt="NGINX" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-20232A?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux" alt="Linux" />
-</p>
-
-### Data & Runtime
-
-<p>
-  <img src="https://img.shields.io/badge/MariaDB-20232A?style=for-the-badge&logo=mariadb" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis" alt="Redis" />
-</p>
-
-### Security
-
-<p>
-  <img src="https://img.shields.io/badge/Falco-20232A?style=for-the-badge" alt="Falco" />
-  <img src="https://img.shields.io/badge/Trivy-20232A?style=for-the-badge" alt="Trivy" />
-  <img src="https://img.shields.io/badge/OPA%20Gatekeeper-20232A?style=for-the-badge" alt="OPA Gatekeeper" />
-  <img src="https://img.shields.io/badge/RBAC-20232A?style=for-the-badge" alt="RBAC" />
-</p>
+| Layer | Tools & technologies |
+| --- | --- |
+| **Product & Frontend** | `React` · `TypeScript` · `JavaScript` · `WordPress` · `Gutenberg` |
+| **Backend & APIs** | `PHP` · `Node.js` · `REST APIs` · `MariaDB` · `Redis` |
+| **Cloud Native** | `Kubernetes` · `Docker` · `Helm` · `NGINX` · `Linux` |
+| **DevOps** | `GitHub Actions` · `CI/CD` · `AWS` · `Infrastructure Automation` |
+| **Security** | `CKS topics` · `RBAC` · `NetworkPolicy` · `Falco` · `Trivy` · `OPA/Gatekeeper` |
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Kubernetes</h3>
-      <ul>
-        <li>Certified Kubernetes Administrator — <strong>CKA</strong></li>
-        <li>Certified Kubernetes Security Specialist — <strong>CKS</strong></li>
-        <li>Kubernetes and Cloud Native Associate — <strong>KCNA</strong></li>
-        <li>Kubernetes and Cloud Security Associate — <strong>KCSA</strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AWS</h3>
-      <ul>
-        <li>AWS Certified Solutions Architect — Associate</li>
-        <li>AWS Certified AI Practitioner</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Kubernetes | AWS |
+| --- | --- |
+| Certified Kubernetes Administrator — **CKA** | AWS Certified Solutions Architect — Associate |
+| Certified Kubernetes Security Specialist — **CKS** | AWS Certified AI Practitioner |
+| Kubernetes and Cloud Native Associate — **KCNA** |  |
+| Kubernetes and Cloud Security Associate — **KCSA** |  |
 
 ---
 
-## 📊 GitHub Activity
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>Profile</h3>
-      <p>Public engineering work, experiments, and product repositories.</p>
-      <p><a href="https://github.com/meladsamuel?tab=repositories">View repositories →</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Current Build</h3>
-      <p>FormInbox — WordPress plugin for form submissions and lead context.</p>
-      <p><a href="https://github.com/forminbox/forminbox">Open FormInbox →</a></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>Learning Track</h3>
-      <p>Kubernetes, cloud native engineering, security, and product systems.</p>
-      <p><a href="https://github.com/meladsamuel?tab=overview">View activity →</a></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=meladsamuel&theme=dark&hide_border=true&background=00000000" alt="Melad Samuel GitHub streak" />
-
-</div>
-
----
-
-## 🧠 How I Think
+## How I Build
 
 ```text
 Problem → MVP → Real users → Feedback → Better product → Business value
@@ -192,37 +74,16 @@ I care about building software that is useful, simple, reliable, and ready for r
 
 ---
 
-## 📌 Focus Areas
+## Focus Areas
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Product Engineering</strong>
-      <br />
-      MVPs, dashboards, SaaS workflows
-    </td>
-    <td align="center" width="25%">
-      <strong>WordPress Platforms</strong>
-      <br />
-      Plugins, Gutenberg, REST APIs
-    </td>
-    <td align="center" width="25%">
-      <strong>Cloud Native</strong>
-      <br />
-      Kubernetes, CI/CD, infrastructure
-    </td>
-    <td align="center" width="25%">
-      <strong>Security</strong>
-      <br />
-      Kubernetes hardening and runtime security
-    </td>
-  </tr>
-</table>
+| Product Engineering | WordPress Platforms | Cloud Native | Security |
+| --- | --- | --- | --- |
+| MVPs, dashboards, SaaS workflows | Plugins, Gutenberg, REST APIs | Kubernetes, CI/CD, infrastructure | Hardening, runtime security, secure delivery |
 
 ---
 
 <div align="center">
 
-### Let’s build useful software.
+**Build simple. Ship fast. Learn from users. Improve with discipline.**
 
 </div>
