@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-hero.svg" alt="Melad Samuel — Software Engineer, Cloud Native, Product Builder" />
+<img width="100%" src="./assets/profile-hero.svg?v=2" alt="Melad Samuel — Software Engineer, Cloud Native, Product Builder" />
 
 <br />
 
